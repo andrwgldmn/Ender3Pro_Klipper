@@ -3,7 +3,8 @@ Hardware modifications:
 Manta M4P
 CB1
 EBB42
-NF-Wind V6
+Sherpa Mini
+Red Lizard V5
 BTT HDMI 5"
 Bltouch
 Dual Z axis
