@@ -8,7 +8,7 @@ Red Lizard V5
 BTT HDMI 5"
 Bltouch
 Dual Z axis
-BTT ADXL345 v2
+rp2040 adxl345 for Y axis
 ```
 
 Firmware modifications:
